@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Helvetica-bold';
+    src: url(../fromword/helvetica-neue-bold.ttf);
+}
+
+@font-face {
+    font-family: 'Helvetica-regular';
+    src: url(../fromword/helvetica-neue-regular.ttf);
+}
+
+@font-face {
+    font-family: 'Helvetica-light';
+    src: url(../fromword/helvetica-neue-light.ttf);
+}
+
+@font-face {
+    font-family: 'Helvetica-medium';
+    src: url(../fromword/helvetica-neue-medium.ttf);
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url(../fromword/HelveticaNeue.otf);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+ul li {
+    list-style-type: none;
+}
